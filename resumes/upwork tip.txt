@@ -1,0 +1,12 @@
+in general, remember a few rules on how to work so that your account is not blocked. 
+In general, If the client asks to make a call then you should try to make a call with him, you can not refuse the client or ignore him, this will lead to blocking.  If the client asks for a video call, then you should also make a call but not turn on the camera and say that you have problems with the camera or, in extreme cases, say that you have English at the level of conversation and not fluent.  And be sure to avoid Russian-speaking clients, as they will understand that you are not Belarus.
+
+when you communicate with a client, you cannot lie to him about the work experience.  The profile indicates that you have 4 years of work experience.  Therefore, you always need to write to the client that you have 4+ years of work experience, if you exaggerate and write that you have 5 or 6 years of experience, then upwork can also block your account for this.
+
+you also cannot change the data in the account (level of English, work experience, and so on) nothing can be changed after registration, as this may raise suspicions.
+
+in Bio and in cover later, when you send a proposal, you cannot use the text that you used on a previous account that was blocked, upwork can track this and block the account.
+
+You cannot use a previously used GitHub for another account that has been banned.  They can also find out the GitHub similarity, that is, you cannot transfer information from the old GitHub to the new one.
+
+You can only search for a job through my computer that I provided you, if you search for a job through your computer and then paste this link into my computer, the account will be blocked.
