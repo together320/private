@@ -1,0 +1,211 @@
+REACT JS:
+
+http://www.bostonmagazine.com/
+http://feedly.com/
+http://imgur.com/
+
+ANGULAR JS:
+https://www.openfn.org/
+https://www.noontimelabels.com/
+
+
+NODE JS:
+https://www.liquidleds.com.au/
+http://fetcharate.com/
+
+
+Node.JS Projects:
+http://www.businesspost.ie/
+
+[News and Media]
+https://transloadit.com/
+
+[Cloud storage and tutorial]
+https://medium.com/
+
+[Community]
+http://www.liquor.com
+
+[Ecommerce]
+http://indochino.com/
+
+[Hotel booking]
+http://www.hotellagodigarda.it/en/
+
+[Photography]
+http://www.atfirstsightfilms.com/
+
+http://www.coffeeshopmanager.com/ ( React based website:- Loyalty rewards, Subscription
+(Pricing), webinars, case studies, blog, request form)
+
+
+https://www.opencare.com/ (Node.js)
+
+
+React
+https://www.everlane.com/
+https://www.1stdibs.com/
+https://www.9flats.com/
+
+https://www.africanexponent.com/
+https://www.airnewzealand.co.nz/
+https://www.amctheatres.com/
+https://www.angieslist.com/
+http://www.argos.co.uk/
+https://www.beckfriends.com/
+https://www.beroomers.com/ (shopping)
+https://bloomperfume.co.uk/ (shopping)
+https://www.campaignmonitor.com/
+https://carbook.ua/
+https://www.casalova.com/ (home)
+https://www.change.org/
+
+https://www.conciergeauctions.com/
+https://delfoo.com/ (restaurant)
+https://www.expedia.com
+https://www.eyeem.com/
+https://fineartbiblio.com/
+http://www.gilead.com/
+https://www.glassbreakers.co/
+http://greenmile.com
+https://m.gepur.com/
+https://www.hackerone.com/
+https://www.headout.com/
+https://www.helix.com/
+https://housing.com/in/buy
+https://www.hornbach.de/
+https://www.holidayextras.co.uk/
+http://www.ign.com/
+https://www.imdb.com/
+https://inkmonk.com/
+https://www.instacarma.com/
+https://www.instacart.com/
+https://www.jeep.com/
+https://jardins-poudriere.ch/
+https://www.kk.no/
+https://klara.be/
+https://www.kogan.com/au/
+https://www.lastminutetravel.com/
+https://www.laurelandwolf.com/
+https://www.wort.lu/de
+http://magazon.ua/
+https://marvos.bike/
+https://www.masalledesport.com/
+https://www.medallia.com/
+https://www.medigo.com/en
+https://getnoodl.es/
+https://shop.nordstrom.com/
+https://nestenn.com/
+https://www.organicvalley.coop/
+https://www.paperlesspost.com/
+https://www.pinterest.com/
+https://int.pixum.com/
+https://www.psychicworld.com/
+https://www.ramtrucks.com/
+https://www.redfin.com/
+https://redmart.com/
+http://www.routes.guide/
+https://www.sauspiel.de/
+https://sidelineswap.com/
+https://www.skyscanner.net/
+https://www.storenvy.com/
+https://strutbranding.com/
+https://stylisted.com/
+https://www.thetiebar.com/
+https://www.healthgrades.com/ (React.JS)
+https://www.chefmade.dk/ (React.JS)
+http://www.remax.com/
+http://www.thompsonhotels.com/
+https://transferwise.com/
+http://www.fticonsulting.com/
+http://mvpwheels.com/
+http://tonyromas.com/
+http://www.sharkdiver.com/
+http://www.healthgrades.com/
+http://www.weil.com/
+http://yanmar.com/
+AngularJS
+https://www.boardvitals.com
+(AngularJS+Vue.js)
+
+http://www.terapeak.com/ (ANGULAR.JS)
+- https://www.columbusapp.com/
+- http://app.woohands.com
+- http://www.chasecenter.com/
+- https://www.wesellrestaurants.com/
+- http://templates2.seasiainfotech.com:9040/Eticketing/final/
+Node.js
+http://www.businesspost.ie/
+[News and Media]
+https://transloadit.com/
+[Cloud storage and tutorial]
+https://medium.com/
+Story site]
+PHP
+https://www.parallelbranch.com/
+PHP, MySQL)
+https://www.thefountainofjuice.com/
+(PHP/Shopify)
+http://www.titletap.com/
+(PHP, Wordpress)
+https://fetchquick.com/
+(PHP, Drupal)
+WebSites
+http://www.FlipCause.com
+https://www.fyldworks.com/
+http://www.juvenilejusticeonline.org
+http://mylifecoach.me/
+http://ask-an-agent.com.au/
+http://myirsdocs.com/
+http://www.dailyfitbook.com/
+http://www.ticketbroker.com
+http://www.adventurebible.com/
+http://www.hatpicks.com/
+http://www.inertiatours.com/
+http://www.autodriveaway.com/
+http://www.thelivebox.com/
+http://www.liquor.com
+(Require.js)
+https://www.truegroups.com/
+http://www.remax.com/
+http://www.thompsonhotels.com/
+https://transferwise.com/
+http://www.fticonsulting.com/
+http://mvpwheels.com/
+http://tonyromas.com/
+http://www.sharkdiver.com/
+http://www.healthgrades.com/
+http://www.weil.com/
+http://yanmar.com/
+http://www.buildingsearch.com/
+http://www.linksv.com/
+http://www.mdbackline.com/
+https://app3.reachable.com/
+https://www.armaniexchange.com
+http://www.visittelluride.com/
+
+
+http://coldwell-banker.in/
+https://stage.online-coach.org/
+http://meetingleader.com/
+http://www.huggamind.com/
+http://www.viprentals.com/
+
+
+- http://golfing4all.com/
+- https://www.baabya.co.uk/
+- http://www.best4balls.com/
+- http://www.best4sportsballs.com/
+- http://www.azplanning.co.uk/
+http://www.virdee-estates.com/
+http://flexiblelearning.org.uk/
+- http://chelliesandwichbar.co.uk/index.html
+- https://mcubotanicals.com/
+- http://aetchauffeurs.com/
+- http://www.lperrylandscapes.co.uk/
+
+
+https://itunes.apple.com/us/app/qatar-living-classifieds/id961568535?mt=8
+https://itunes.apple.com/us/app/eatwith-food-experiences/id1076274943?mt=8
+http://www.scottalexander.tv/app-1/
+
