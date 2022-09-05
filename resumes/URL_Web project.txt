@@ -4,6 +4,14 @@ http://www.bostonmagazine.com/
 http://feedly.com/
 http://imgur.com/
 
+
+https://apps.apple.com/in/app/instahop/id1500252345#?platform=iphone
+https://play.google.com/store/apps/details?id=com.tap.instahop
+https://www.instahop.com/
+Demo: https://youtu.be/q8PFbHFRnmU
+Demo: https://youtu.be/Z-p31Hdt33o
+
+
 ANGULAR JS:
 https://www.openfn.org/
 https://www.noontimelabels.com/
