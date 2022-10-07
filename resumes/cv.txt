@@ -4,7 +4,7 @@ Senior Web Developer
 Innovative, creative, and a proven team player and 8 years experience of building, developing, and managing websites, applications and programs for various organizations. Enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks and personally picking up the slack when necessary. With a passion for both personal growth and for software development, I always look forward to learn new languages while sharpening existing skills. Interested in securing the position of Senior Web Developer at talented engineering team, hoping to share great skills, expertise, and experience with company’s team and valuable clients.
 
 
-B.Tech in Computer Science
+Bachelor's Degree in Computer Science
 Chinese University of Hong Kong
 Sep 2012 - Sep 2016        Shatin, NT Hong Kong
 
@@ -27,40 +27,46 @@ Mobile Development (React Native, Flutter, Kotlin)
 Desktop Development (MFC, C#)
 Cross-platform Development (Unity, Qt)
 
-Software Developer - 04/2014 to 06/2016
-Time Tracker, University
-- Developed windows software using C#
-- Added hooking mouse and keyboard events using Windows API
-- Worked on backend using php
-- Cooperate with backend developers to integrate APIs
-
-Project Description:
-- Windows task tray application
-- The worker sends mouse, keyboard events, and screenshots to the server at every interval.
-- The employer checks the activity of the worker.
-
-Web Developer - 09/2016 to 11/2019
-Sachtleben Technology, Germany (Remote)
-- Developed frontend using next.js/material-ui
-- Mail integration using imap
-- Added image recognition using tesseract
-- Worked on PCL library to compute pointcloud using Qt
-- Cooperate with software developers for data communication via WebSocket
-
-Project Description:
-- Anaylsis system using next.js/material-ui for frontend, node.js for backend, mongodb for database
-- Import data from pointcloud system
-- Anaylsis, compute and export data
-
 Full Stack Developer - 02/2020 to 06/2022
 Snapfood, Albania (Remote)
-- Developed android/ios app using React Native
-- Developed website using React.js
-- Developed backend using Laravel
-- Developed admin website using Laravel
 
 Project Description:
 - Food Delivery Website/App
 - https://snapfood.al/
 - https://play.google.com/store/apps/details?id=com.snapfood.app&hl=en
 - https://apps.apple.com/al/app/snapfood-food-delivery/id1314003561?l=en
+
+What I have done:
+- Developed android/ios app using React Native
+- Developed website using React.js
+- Developed backend using Laravel
+- Developed admin website using Laravel
+
+Web Developer - 09/2016 to 11/2019
+Sachtleben Technology, Germany (Remote)
+
+Project Description:
+- Anaylsis system using next.js/material-ui for frontend, node.js for backend, mongodb for database
+- Import data from pointcloud system
+- Anaylsis, compute and export data
+
+What I have done:
+- Developed frontend using next.js/material-ui
+- Mail integration using imap
+- Added image recognition using tesseract
+- Worked on PCL library to compute pointcloud using Qt
+- Cooperate with software developers for data communication via WebSocket
+
+Software Developer - 04/2014 to 06/2016
+Time Tracker, University
+
+Project Description:
+- Windows task tray application
+- The worker sends mouse, keyboard events, and screenshots to the server at every interval.
+- The employer checks the activity of the worker.
+
+What I have done:
+- Developed windows software using C#
+- Added hooking mouse and keyboard events using Windows API
+- Worked on backend using php
+- Cooperate with backend developers to integrate APIs
