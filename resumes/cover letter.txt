@@ -22,3 +22,24 @@ Sincerely,
 
 Ming Zou
 
+
+
+
+Senior Desktop, Mobile App and Web developer here. I am a senior developer with 8 years of rich experiences.
+
+My skill set is :
+1. Desktop App Development
+-- Desktop app with C++, C#, Qt, Python
+-- Web Scraping, Web Automation with Python/C#
+2. Mobile App development
+-- Java & Kotlin for Native mobile app
+-- React Native, Flutter and Ionic for the Hybride mobile app.
+3. Web Development
+-- Laravel, CodeIgniter, PHP and other PHP Framework.
+-- React, Vue.js, Node.js and other JS Framework
+-- WordPress, Shopify, Prestashop and Magento for eComerce Website
+4. Blockchain Development
+- React + web3.js, Solidity, Truffle/Hardhat
+- NFT minting, marketplace, Opensea
+- DEX, launchpad, ERC20 token
+- Front running bot, Sniper bot, Flsh arbitage bot, Sandwich bot
