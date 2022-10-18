@@ -43,3 +43,37 @@ My skill set is :
 - NFT minting, marketplace, Opensea
 - DEX, launchpad, ERC20 token
 - Front running bot, Sniper bot, Flsh arbitage bot, Sandwich bot
+
+
+
+--- crypto exchange platform ---
+https://cryptiswap.org/
+https://myquantex.com/
+
+https://exaadocash.com/
+
+-- ERC20 token ICO --
+https://cowr.org/
+
+-- NFT projects --
+https://101010.art/
+https://www.fxhash.xyz/u/101010.ART
+https://snipboard.io/Xer9Aj.jpg
+
+https://testnets.opensea.io/assets/divinityxxx?search[sortAscending]=true&search[sortBy]=CREATED_DATE
+
+-- Bot --
+http://app.batabata.io/ NFT sniper bot and rarity tool
+
+-- Farming --
+https://en.turknodes.com/
+
+-- IDO launchpad --
+https://gempad.app/presales
+https://www.figma.com/file/OhA8PbfA1ZhmcRYDytlZfS/Untitled?node-id=0%3A1
+
+-- Contract --
+staking, compound, farming
+faucet
+dex swap
+network bridge
