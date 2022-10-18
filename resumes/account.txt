@@ -25,6 +25,10 @@ Qazplm@4#2
 - Anydesk (Dmytro - Netherlands)
     383202716
     star1dFUd23!!
+    
+    185.106.123.197
+    Administrator
+    Herman100_
 
 - putty
 
