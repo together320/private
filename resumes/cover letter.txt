@@ -77,3 +77,25 @@ staking, compound, farming
 faucet
 dex swap
 network bridge
+
+
+
+
+
+
+
+
+
+
+
+Hi!
+I am really interested in your position.
+To introduce myself, I'm a 🥇senior Fullstack developer🥇 with over 6+ years experience.
+I can work on full-time, and any timezone is okay, in addition, I have strong ability to communicate clearly and quickly.I have a rule to keep the deadline definitely.
+In term of skills, I can confidently say that I have a great frontend understanding in SPA , node.js , API and GraphQL.
+To conclude, I believe I am the right person for the job and I will gladly take any quizes or challenges you might have to prove myself as deserving enough to take this job.
+This is my recent frontend work very similar with your project.
+http://propertyinsurat.com/(React + Tailwind + node.js)
+https://www.ubooktoday.com/ (Laravel + Vue.js)
+I want to discuss more details through the interview.
+Best Regards
