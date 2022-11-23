@@ -1,0 +1,11 @@
+- USA
+Main IP: 23.106.160.244
+Username: Administrator
+Password: 35d86d10ac69D$
+Anydesk: 596883297/win-799ri0tstof/administrator : denis2022!
+
+- Chinese
+61.147.199.94
+administrator
+denis2022!
+Anydesk: 825378563

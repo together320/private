@@ -1,7 +1,15 @@
 
 Name: William Lee
 Birthday: 06/28/1994
-Location: Hong Kong SAR
+Phone: +86 13394438755
+HongKong
+  +852 8191 5087 
+USA                       
+  +1 661 584 4137
+
+Location:
+  44625 18th St W
+  Lancaster, California(CA), 93534
 
 williamlee19940628@gmail.com
 
@@ -31,6 +39,9 @@ UserName:
   william0628
 Password:
   sunnyside123!@#
+
+* goodhelper21@gmail.com
+  Jsecret1912
 
 
 DANCETRINITY - 8th Floor, Fung Woo Centre, 279-281 Des Voeux Road Central, Hong Kong
