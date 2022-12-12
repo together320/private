@@ -5,9 +5,22 @@ Skype:
     live:mrlevantho
 
 
-202.65.137.146
-Qazplm@4#2
+- Anydesk(Italy-upwork)
+    482970703 qwertypassword
+    Email: mailto:    kolapietro.unipolsai@gmail.com
+    Pass: Qwerty000123!
 
+- USA
+Main IP: 23.106.160.244
+Username: Administrator
+Password: 35d86d10ac69D$
+Anydesk: 596883297/win-799ri0tstof/administrator : denis2022!
+
+- Chinese
+61.147.199.94
+administrator
+denis2022!
+Anydesk: 825378563
 
 
 - Anydesk(romanian)
@@ -28,9 +41,6 @@ Qazplm@4#2
     811372921
     q4P7ulN1Z7$u
 
-
-
-
 - Anydesk (Dmytro - Netherlands)
     383202716
     star1dFUd23!!
@@ -39,24 +49,24 @@ Qazplm@4#2
     Administrator
     Herman100_
 
+    freelancerpoint38@gmail.com
+    sdfinsd99d!dkfo%
+
 - putty
 
-login: roman
-pwd: COtwN9BZ&[zArG3
-ip: 138.68.109.68
+115.248.56.12
+root
+Qazplm@4#2
 
-http://entourage-media.net/play?username=test
+115.248.56.10 // iredmail
+ssh : 220
+root
+Qazplm@4#10
 
-Angel:
-I am looking for a full-time remote job now and I am willing to work on any time zone.
-My ethic is in a word, honest, steady, reliable, dedicated.
-I usually work 40 hours per week, but I am always willing to come in early or stay late to help complete a task.
-
-I started software engineering when I was at university.
-Since then, I have used my skills to create many small and medium-sized products.
-I added the proudest achievement I have ever done to my profile.
-
-
+115.248.56.1 // nextcloud
+ssh : 330 
+root
+Qazplm@4#330
 
 
 email: bobby.ledner0624@gmail.com
@@ -67,3 +77,17 @@ password: bobby19990624
 
 goodhelper21@gmail.com
 Jsecret1912
+
+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
+
+- branch io
+
+ssleikus@gmail.com
+@Liverpool6
+
+- hostinger
+
+Shazzz@yahoo.co.uk
+@Liverpool2014
+
+89.116.229.216

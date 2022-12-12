@@ -1,0 +1,106 @@
+
+#### how to install iredmail on ubuntu
+
+*   https://www.linuxbabe.com/mail-server/ubuntu-20-04-iredmail-server-installation
+
+*   change dns into ip
+*   change MX record
+
+sudo apt update
+sudo apt upgrade -y
+
+sudo hostnamectl set-hostname mail.unimail.in
+sudo nano /etc/hosts
+127.0.0.1       mail.unimail.in localhost
+
+wget https://github.com/iredmail/iRedMail/archive/1.6.2.tar.gz
+tar xvf 1.6.2.tar.gz
+cd iRedMail-1.6.2/
+chmod +x iRedMail.sh
+sudo bash iRedMail.sh
+
+sudo shutdown -r now
+
+password: unimailin
+unimail.in
+
+// sudo apt install certbot
+// sudo certbot certonly --webroot --agree-tos --email postmaster@unimail.in -d mail.unimail.in -w /var/www/html/
+
+
+
+sudo amavisd-new showkeys
+sudo amavisd-new testkeys
+
+v=DKIM1;p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo6+obRKNLVXib3if9w+NDcWVRhFzPDl5XMoH793MEE33M8HbLeXWNbNEV9VNZuQd+/1pOTaXuduuxD6WAr4/TFvcq5AQVM5EjtiggBFY393+iVIjtiQkg8Cy13HPxb0qsB4Q0yPOFD5Ysd3flm6bSWAHQA5BtJF7F0lY5ZlzjOu1RjyU7e7wFXk+HcV0KIGT5tOqBfYrU5iAHRe0fSzdF/7S1UyEAAZ4XLq4A5RqmcfjgJAUXeQ1dqJe4T/nk4iXUFyE6Zwzx1GlFsgJx88v5HoL5s9iW/t3jENJHbSbpWXGfHekVepD/IR5eB+lWrAddQPnWxsjwLRnCloJfTkTcwIDAQAB
+
+postmaster@unimail.in
+unimailin
+test@unimail.in
+77JG9}C7jt
+
+#### how to install nextcloud on ubuntu
+
+*   https://linuxiac.com/install-nextcloud-on-ubuntu/
+*   https://frunction.com/2021/06/nextcloud-external-storage/
+
+
+sudo apt install apache2
+sudo apt install php libapache2-mod-php php-imagick php-common php-mysql php-gd php-json php-curl php-zip php-xml php-mbstring php-bz2 php-intl php-bcmath php-gmp php-dom unzip
+sudo systemctl reload apache2
+sudo apt install mariadb-server
+sudo mysql_secure_installation
+unibase
+sudo mysql -u root -p
+CREATE DATABASE nextcloud;
+GRANT ALL ON nextcloud.* TO 'nextcloud-user'@'localhost' IDENTIFIED BY 'unibase';
+FLUSH PRIVILEGES;
+EXIT;
+mysql -u nextcloud-user -p
+wget https://download.nextcloud.com/server/releases/nextcloud-23.0.0.zip
+sudo unzip nextcloud-23.0.0.zip -d /var/www/html/
+sudo mkdir /var/www/html/nextcloud/data
+sudo chown -R www-data:www-data /var/www/html/nextcloud/
+
+admin
+unibasein
+
+
+#### how to register service on ubunut
+sudo rm /etc/systemd/system/blackjack.service
+sudo nano /etc/systemd/system/blackjack.service
+
+[Unit]
+Description="Blackjack Game Backend"
+
+[Service]
+ExecStart=/root/.nvm/versions/node/v16.15.1/bin/node /home/MpBlackJack/Backend/bjApp.js
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
+sudo systemctl daemon-reload
+sudo systemctl start blackjack
+
+systemctl status blackjack
+
+#### install nodejs on ubuntu
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+source ~/.bashrc
+nvm list-remote
+nvm install v16.15.1
+// restart shell
+
+#### install mongodb on ubuntu
+sudo service mongod stop 
+sudo apt purge mongo*
+
+wget -qO - https://www.mongodb.org/static/pgp/server-4.4.asc | sudo apt-key add -
+echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/4.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.4.list
+sudo apt-get update
+sudo apt-get install -y mongodb-org=4.4.11 mongodb-org-server=4.4.11 mongodb-org-shell=4.4.11 mongodb-org-mongos=4.4.11 mongodb-org-tools=4.4.11
+sudo systemctl start mongod
+sudo systemctl status mongod
+
+*   https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
