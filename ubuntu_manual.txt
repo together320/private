@@ -1,4 +1,8 @@
 
+#### how to change vps port
+*   https://techgenix.com/how-to-change-the-rdp-port-number/
+*   https://www.isumsoft.com/computer/5-ways-to-add-remote-desktop-users-in-windows-pc.html
+
 #### how to install iredmail on ubuntu
 
 *   https://www.linuxbabe.com/mail-server/ubuntu-20-04-iredmail-server-installation
@@ -39,10 +43,18 @@ unimailin
 test@unimail.in
 77JG9}C7jt
 
+#### how to install owncloud on ubuntu
+https://doc.owncloud.com/server/next/admin_manual/installation/quick_guides/ubuntu_20_04.html
+https://www.linode.com/docs/guides/install-and-configure-owncloud-on-ubuntu-20-04/
+
+
 #### how to install nextcloud on ubuntu
 
 *   https://linuxiac.com/install-nextcloud-on-ubuntu/
 *   https://frunction.com/2021/06/nextcloud-external-storage/
+
+GRANT ALL ON ownclouddb.* TO 'nextcloud-user'@'%' IDENTIFIED BY 'unibase';
+GRANT ALL ON ownclouddb.* TO 'oc_admin'@'localhost' IDENTIFIED BY 'unibase';
 
 
 sudo apt install apache2
@@ -53,7 +65,7 @@ sudo mysql_secure_installation
 unibase
 sudo mysql -u root -p
 CREATE DATABASE nextcloud;
-GRANT ALL ON nextcloud.* TO 'nextcloud-user'@'localhost' IDENTIFIED BY 'unibase';
+GRANT ALL ON nextcloud.* TO 'nextcloud-user'@'%' IDENTIFIED BY 'unibase';
 FLUSH PRIVILEGES;
 EXIT;
 mysql -u nextcloud-user -p
@@ -92,6 +104,11 @@ nvm list-remote
 nvm install v16.15.1
 // restart shell
 
+#### access mongodb remotely
+
+*   https://www.digitalocean.com/community/tutorials/how-to-secure-mongodb-on-ubuntu-20-04
+*   https://indianceo.medium.com/how-to-connect-to-your-remote-mongodb-server-68725a8e53f
+
 #### install mongodb on ubuntu
 sudo service mongod stop 
 sudo apt purge mongo*
@@ -104,3 +121,31 @@ sudo systemctl start mongod
 sudo systemctl status mongod
 
 *   https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
+
+
+
+https://techgenix.com/how-to-change-the-rdp-port-number/
+
+
+#### install ssl on nodejs server
+
+*   https://medium.com/swlh/learning-configuring-https-for-node-js-5097e44320e3
+
+sudo apt install certbot
+sudo certbot certonly --standalone -d drive.unimail.in
+
+const privateKey = fs.readFileSync( '/etc/letsencrypt/live/drive.unimail.in/privkey.pem' );
+const certificate = fs.readFileSync( '/etc/letsencrypt/live/drive.unimail.in/fullchain.pem' );
+
+#### pack deb package on ubuntu
+dpkg-deb --build --root-owner-group luckycloud_1.0-1_all
+
+#### network setting for NAT
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    enp0s3:
+      dhcp4: true
+	  
+port forward 2022 to 22

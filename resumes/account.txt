@@ -4,6 +4,7 @@ GMAIL (Tho Le Van):
 Skype:
     live:mrlevantho
 
+Intelligence2022
 
 - Anydesk(Italy-upwork)
     482970703 qwertypassword
@@ -15,31 +16,22 @@ Main IP: 23.106.160.244
 Username: Administrator/user1
 Password: sunnyside7399!@#/Qwerty000123!
 
+Main IP: 139.177.146.20
+Username: Administrator/user1
+Password: AU9n1ObIGw9@/Qwerty000123!
+
 vps info:
  kua2022@126.com / denis2022!
  https://support.cloudzy.com/login/?_ga=2.163090748.1611275587.1675828391-1111473445.1675828391
 
-- UK
-Hostname
-Ehhis1B9E6ktgaIPhHtf.serverworld.uk
-Primary IP
-191.96.209.22
-Assigned IPs
-2A01:A500:2766:0000:0000:0000:7f1f:c43b
-Host
-proteus
+- Anydesk (Canada)
+Anydesk ID: 1148992130
+Password: FreelancerOS
 
-rootpw: 3GSSGMlH8h2!
-
-freelancer:
- shazzz24@yahoo.com
- Liverpool2023
- 
-anydesk:
- 405993295
-
-vps info: huhu2023@126.com / 3GSSGMlH8h2!
-https://portal.hostworld.uk/index.php/login
+- Anydesk (Croatia)
+152925109
+Maxko99@
+Snupi12345
 
 - Anydesk (Dmytro - Netherlands)
     383202716
@@ -54,6 +46,8 @@ https://portal.hostworld.uk/index.php/login
 
     freelancerpoint38@gmail.com
     sdfinsd99d!dkfo%
+	
+	skype: cyberboss1994@outlook.com, virusmaKer123
 
 - Chinese
 61.147.199.94
@@ -69,6 +63,9 @@ Anydesk: 825378563
 - Anydesk(Bizgaze)
     750621564
     NavigationHelper
+	
+	969779598
+	Bizgaze@123
 
 - Anydesk(russel)
     407748032
@@ -76,104 +73,271 @@ Anydesk: 825378563
 
     RussUp123#
 
-Upwork Account New
-—————————————
-Email: kongvanna126@gmail.com
-Password: qY*7@9e36z5DxrdJ
-Security Question: Love
-—————————————
+- Anydesk (luckycloud)
+	489797230
+	QhuC8bQyeB4wJKqRR0yqrhZlLpl0MCIK
 
-—————————————
-Freelancer  Account
-—————————————
-Email: kongvanna126@gmail.com
-Password: Freel@n3er@KH
-—————————————
+- putty (bizgaze)
+  115.248.56.12 // libre
+  root
+  Qazplm@4#2
 
-—————————————
-Gmail  Account
-—————————————
-Email: kongvanna126@gmail.com
-Password: dM278@cHN@%6RM46
-—————————————
+  115.248.56.10 // iredmail
+  root
+  Qazplm@4#10
 
-—————————————
-Anydesk
-—————————————
-IP: 709705184
-Password: Kh@123456789
-—————————————
-
-
-- putty
-
-115.248.56.12
-root
-Qazplm@4#2
-
-115.248.56.10 // iredmail
-ssh : 220
-root
-Qazplm@4#10
-
-115.248.56.1 // nextcloud
-ssh : 330 
-root
-Qazplm@4#330
-
-
-email: bobby.ledner0624@gmail.com
-password: bobby19990624
-mingzou94@gmail.com
-mingzou123!@#
+  115.248.56.1 // nextcloud
+  root
+  Qazplm@4#330
+  
+- gmail
+  bobby.ledner0624@gmail.com
+  bobby19990624
+  
+  mingzou94@gmail.com
+  mingzou123!@#
 
 - github
+  goodhelper21@gmail.com (github)
+  Jsecret1912
 
-goodhelper21@gmail.com
-Jsecret1912
+  codechef93 (github)
+  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
 
-codechef93
-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
-
-- branch io
-ssleikus@gmail.com
-@Liverpool6
-
-- hostinger (uk)
-Shazzz@yahoo.co.uk
-@Liverpool2014
-
-89.116.229.216
+  denis.turgenev2021@gmail.com (bizgaze gitea)
+  secret2514
+  
+  denis.turgenev2021@gmail.com (github)
+  rkddurhkd2015414
 
 - Vonage
-huhu110@hotmail.com
-denis2022!
+  huhu110@hotmail.com
+  denis2022!
 
 - TrueCaptcha
-Caroz
-PI6SyjJvLg0lWBEgthV9
+  Caroz
+  PI6SyjJvLg0lWBEgthV9
 
+**** Shahaf ****
+- Payoneer
+  sahahaf@gmail.com
+  Platin Digital/Shahaf Platin
+  Shahaf
+  Leshem 23, naale, israel
+  7193200 naale
+  Israel
+  sahahaf@gmail.com
+  +972 523235873
+  315337634
 
+  Mingji Jin
+  china jilinsheng yanjishi, 133000
+  empirehost2022@outlook.com
 
-- Shahaf
-(webflow) Shimoni.yehuda@gmail.com
-Yoyo@202020
+- Webflow (Glassblocks.co.il)
+  Shimoni.yehuda@gmail.com
+  Yoyo@202020
+  
+  https://login.ccccloud.com/auth/realms/sr3/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Flogin.ccccloud.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr3&state=h-58pFd3KDkPQm1fD8XNXYgW3Gs5Gj44Hfe04YwmQUA&client_id=oss&scope=openid
+  shimoni.yehuda / Yoyo@202020
+  denis.turgenev2021@gmail.com / Star123!@#
 
-Glassblocks.co.il
+- fablefrog back4app
+  sleong9811@gmail.com
+  Noobscraper1!
 
-https://login.ccccloud.com/auth/realms/sr3/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Flogin.ccccloud.com%2Fsp%2Fcallback%2F%3Fclient_name%3Dsr3&state=h-58pFd3KDkPQm1fD8XNXYgW3Gs5Gj44Hfe04YwmQUA&client_id=oss&scope=openid
+- fablefrog cpanel
+  http://fablefrog.com/cpanel
+  fablhiyo
+  SKcdzmltR6Po
+  
+- MUN hosting (mun.tools)
+  https://world.siteground.com/
+  https://www.namecheap.com/
 
-shimoni.yehuda
-Yoyo@202020
+  munfinance / munfinancenft@gmail.com
+  Sppujv7536007!
+  
+- benlol
+	https://domains.box.co.il/user/login
 
-denis.turgenev2021@gmail.com
+	benlol34@gmail.com
+	Ahbd2826
+
+	benlol34@gmail.com
+	Ahbd1994
+
+	this is for email to login for webflow
+
+**** Shazzz ****
+- hostinger (uk)
+  Shazzz@yahoo.co.uk / @Liverpool2014
+  89.116.229.216
+
+- branch io
+  ssleikus@gmail.com / @AxGames2023
+  
+- wix
+  https://manage.wix.com/editor/be5e2b80-1943-4767-b35f-6ae81b48dce5
+  
+- UK
+  Hostname
+    Ehhis1B9E6ktgaIPhHtf.serverworld.uk
+  Primary IP
+    191.96.209.22
+  Assigned IPs
+    2A01:A500:2766:0000:0000:0000:7f1f:c43b
+  Host
+    proteus
+
+  administrator / 3GSSGMlH8h2!
+  user1 / ming123!@#
+
+  freelancer:
+   shazzz24@yahoo.com / @Liverpool2025
+ 
+  anydesk:
+   405993295
+
+  vps info: huhu2023@126.com / 3GSSGMlH8h2!
+  https://portal.hostworld.uk/index.php/login
+
+**** ****  
+wallet 123
+
+TRX:    TR7B4EDhXUo7N4QvD1EWsxqVdvwW2WwjoF
+USDT:   TR7B4EDhXUo7N4QvD1EWsxqVdvwW2WwjoF
+ETH:	0x0177558eCef2b680746531989771e8080D4E5Ac8
+BSC:	0x0177558eCef2b680746531989771e8080D4E5Ac8
+
+**** ****
+sergeikrasnyk44@gmail.com
+Tuchka3212  
+
+**** Romanian VPS ****
+https://bill.pq.hosting/billmgr?sfrom=loginform
+chjofficial18@sina.com
 Star123!@#
+94.131.119.36
+Admin / M00710mM2a7r
 
-- back4app
-sleong9811@gmail.com
-Noobscraper1!
+**** SAI SUDHEER ****
+  - Anydesk
+	352 938 748
+	Bizgaze@123
 
-- cpanel
-http://fablefrog.com/cpanel
-fablhiyo
-SKcdzmltR6Po
+  - Gmail
+	dssb.sudheer.babu@gmail.com
+	8639755001
+	
+  - Freelancer, Upwork
+	dssb.sudheer.babu@gmail.com
+	Sudheer@8639755001
+	
+	Your favorite sport team:
+	Real Madrid
+
+	Suneel njp
+	681741279
+	Bizgaze@123
+	qwerty@789
+
+
+**** Yevhenii P ****
+  - Gmail
+	Amazon32123212@gmail.com
+	Password Intelligence2021
+
+  - Upwork
+	amazon32123212@gmail.com
+    Password: Intelligence2015
+    Secret Question: Tuchka
+	
+  - Paypal 
+    Tuchkaupwork@gmail.com
+    Tuchka3212
+	
+  - Payoneer
+	Amazon32123212@gmail.com
+	Intelligence2015
+
+  - Freelancer
+	amazon32123212@gmail.com
+    Password: Intelligence2015
+	
+  - Anydesk
+    271337855
+	Tuchka3212
+	
+  -  Github
+    Tuchka11
+	Tuchka3212
+
+  - Airdroid password
+	asdqwe123
+	
+**** Sergey ****
+	Anydesk
+	297 753 035
+	Tuchka3212
+
+	Gmail
+	sergeikrasnyk44@gmail.com
+	Tuchka3212
+
+	Upwork
+	sergeikrasnyk44@gmail.com
+	Tuchka3212
+	Tuchka3212
+
+	Freelancer
+	sergeikrasnyk44@gmail.com
+	Tuchka3212
+
+	Paypal
+	sergeikrasnyk44@gmail.com
+	Tuchka3212
+
+	Payoneer
+	sergeikrasnyk44@gmail.com
+	Tuchka3212 (I don't remember my password, I need to reset it )	
+	
+	Github
+	sergeik44
+	Sergei44!@#
+
+**** Mining server ****
+    207.180.196.250
+    DQW6XnE2395869fp3QsD786
+	
+	
+**** Lucky Cloud (Viktor Rieger) ****
+    live:.cid.1af6625e02bede69
+	
+
+**** ChatGPT ****
+	kukgenius@gmail.com
+	Suharth@30
+	chat.openai.com	
+	
+	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
+	
+Username: 8n7063399
+Password: 956xu98wu
+
+Username: p2five
+Password: 669a8b5ca14c
+
+admin.braz.vip:5010 (admin)
+product.braz.vip:3010 (product)
+
+
+python3 .\build-msi-vs.py 8.0.9
+
+**** telecom ****
+WTL BV
+Borsbeksebrug 34/1
+2600 Berchem
+BELGIUM
+VAT BE0751.921.333
++3227227200
